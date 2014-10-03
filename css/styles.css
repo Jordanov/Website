@@ -1,0 +1,37 @@
+html
+{
+	background-color: #c0c0c0;
+}
+
+body
+{
+	margin:0 auto;
+	width: 800px;
+	border: 1px solid silver;
+	padding:15px;
+	background-color: #f0f0f0;
+}
+
+nav
+{
+
+}
+
+header
+{
+	text-align: center;
+}
+
+#content
+{
+	text-align: justify;
+	min-height: 400px;
+}
+
+footer
+{
+	display:block;
+	width: 100%;
+	padding: 5px;
+	margin:0;
+}
