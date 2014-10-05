@@ -1,20 +1,64 @@
 html
 {
-	background-color: #c0c0c0;
+	background: url("../img/background-black.jpg") repeat fixed 0 0 #003b1b;
 }
 
 body
 {
-	margin:0 auto;
+	margin:30px auto;
 	width: 800px;
 	border: 1px solid silver;
-	padding:15px;
-	background-color: #f0f0f0;
+	padding:0 15px;
+	background-color: #003b1b;
+	color: #d5d4d4;
+    font-family: Helvetica, Arial, sans-serif;
+    border-radius: 20px;
+    opacity:0.82;
+}
+
+a
+{
+    color: #279d5e;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+h1
+{
+	border-bottom: 1px solid #326248;
+	padding-bottom: 3px;
 }
 
 nav
 {
+	background-color: #002612;
+	width: 810px;
+	height: 30px;
+	margin: 0 0 0 -15px;
+	padding: 15px 10px 10px 10px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
 
+nav ul
+{
+	list-style: none;
+	display: inline-block;
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+
+nav ul li
+{
+	float: left;
+	display: inline-block;
+	margin:0 10px;
 }
 
 header
@@ -26,12 +70,25 @@ header
 {
 	text-align: justify;
 	min-height: 400px;
+	padding:10px 20px;
 }
 
 footer
 {
 	display:block;
-	width: 100%;
-	padding: 5px;
-	margin:0;
+	width: 810px;
+	height: 35px;
+	padding: 15px 10px 10px 10px;
+	margin:20px 0 0 -15px;
+	color: #279d5e;
+	text-align: center;
+	background-color: #002612;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+.clear
+{
+	clear:both;
+	display: none;
 }
