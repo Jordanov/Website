@@ -122,7 +122,7 @@ footer
 #html_validator
 {
 	background-image: url("../img/valid_html5.png");
-	background-repeat: none;
+	background-repeat: no-repeat;
   	text-indent: -99999999px;
   	width: 45px;
   	height: 16px;
@@ -132,7 +132,7 @@ footer
 #css_validator
 {
 	background-image: url("../img/valid_css.gif");
-	background-repeat: none;
+	background-repeat: no-repeat;
   	text-indent: -99999999px;
 	width: 45px;
   	height: 16px;
