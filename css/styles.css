@@ -93,7 +93,6 @@ footer
 	display: none;
 }
 
-
 .profile
 {
 	display: block;
@@ -112,9 +111,30 @@ footer
 	margin:5px;
 	display: inline;
 	opacity: 1;
+	border-radius: 80px;
 }
 
 .profile a
 {
 	float: left;
+}
+
+#html_validator
+{
+	background-image: url("../img/valid_html5.png");
+	background-repeat: none;
+  	text-indent: -99999999px;
+  	width: 45px;
+  	height: 16px;
+  	display: inline-block;
+}
+
+#css_validator
+{
+	background-image: url("../img/valid_css.gif");
+	background-repeat: none;
+  	text-indent: -99999999px;
+	width: 45px;
+  	height: 16px;
+  	display: inline-block;
 }
