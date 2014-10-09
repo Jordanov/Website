@@ -92,3 +92,29 @@ footer
 	clear:both;
 	display: none;
 }
+
+
+.profile
+{
+	display: block;
+	padding:0;
+	margin:0 0 20px 0;
+	float:left;
+	width: 750px;
+}
+
+
+.profile img
+{
+	height: 160px;
+	width: 160px;
+	float: left;
+	margin:5px;
+	display: inline;
+	opacity: 1;
+}
+
+.profile a
+{
+	float: left;
+}
