@@ -138,3 +138,9 @@ footer
   	height: 16px;
   	display: inline-block;
 }
+
+.friend
+{
+	width: 160px;
+	height: 160px;
+}
