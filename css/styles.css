@@ -144,3 +144,11 @@ footer
 	width: 160px;
 	height: 160px;
 }
+ 
+.charges{
+    margin-left: 175px;
+}
+.wantedheader{
+    text-align: center;
+    font-size: 30px;
+}
