@@ -68,6 +68,7 @@ header
 
 #content
 {
+	display: inline-block;
 	text-align: justify;
 	min-height: 400px;
 	padding:10px 20px;
@@ -95,13 +96,12 @@ footer
 
 .profile
 {
-	display: block;
+	display: inline-block;
 	padding:0;
 	margin:0 0 20px 0;
 	float:left;
 	width: 750px;
 }
-
 
 .profile img
 {
@@ -114,9 +114,19 @@ footer
 	border-radius: 80px;
 }
 
+.target
+{
+	cursor: crosshair;
+}
+
 .profile a
 {
 	float: left;
+}
+
+.profile p
+{
+	padding: 2px 0;
 }
 
 #html_validator
@@ -144,7 +154,7 @@ footer
 	width: 160px;
 	height: 160px;
 }
- 
+
 .charges{
     margin-left: 175px;
 }
