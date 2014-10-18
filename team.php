@@ -1,28 +1,12 @@
-<!DOCTYPE html>
-<html lang="bg">
+<?php
 
-	<head>
-		<meta charset="utf-8"/>
-		<title>НАБЛК - Екип</title>
-		<link rel="stylesheet" type="text/css" href="css/styles.css"/>
-	</head>
+// заглавието на страницата
+$title = "Екип";
 
-	<body>
-		<!-- Навигация, лого -->
-		<nav>
-			<ul>
-				<li><a href="index.html">Начало</a></li>
-				<li><a href="about.html">Информация</a></li>
-				<li><a href="blueberry.html">ОП "Blueberry"</a></li>
-				<li><a href="wanted.html">Разследвани</a></li>
-				<li><a href="team.html">Екип</a></li>
-				<li><a href="friends.html">Приятели</a></li>
-				<li><a href="contacts.html">Контакти</a></li>
-			</ul>
+// извикване хедъра
+require_once("header.php");
 
-			<!-- Clearfix-че -->
-			<div class="clear"></div>
-		</nav>
+?>
 
 		<!-- Заглавие -->
 		<header>
@@ -90,12 +74,9 @@
 
 		</div>
 
-		<!-- Футъра -->
-		<footer>&copy; 2014, НАБЛК. <a id="html_validator" href="http://validator.w3.org/check?uri=" target="_blank">html5</a> <a id="css_validator" href="http://jigsaw.w3.org/css-validator/validator?uri=" target="_blank">css3</a></footer>
+<?php
 
-		<!-- JS scripts -->
-		<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
-		<script type="text/javascript" src="js/default.js"></script>
-	</body>
+// извикваме футъра
+require_once("footer.php");
 
-</html>
+?>
