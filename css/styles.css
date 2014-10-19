@@ -8,7 +8,7 @@ body
 	margin:30px auto;
 	width: 800px;
 	border: 1px solid silver;
-	padding:0 15px;
+	padding:0 25px;
 	background-color: #003b1b;
 	color: #d5d4d4;
     font-family: Helvetica, Arial, sans-serif;
@@ -37,9 +37,9 @@ h1
 nav
 {
 	background-color: #002612;
-	width: 810px;
+	width: 830px;
 	height: 30px;
-	margin: 0 0 0 -15px;
+	margin: 0 0 0 -25px;
 	padding: 15px 10px 10px 10px;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
@@ -58,7 +58,7 @@ nav ul li
 {
 	float: left;
 	display: inline-block;
-	margin:0 10px;
+	margin:0 20px;
 }
 
 header
@@ -71,16 +71,17 @@ header
 	display: inline-block;
 	text-align: justify;
 	min-height: 400px;
-	padding:10px 20px;
+	padding: auto;
+	width: 100%;
 }
 
 footer
 {
 	display:block;
-	width: 810px;
+	width: 830px;
 	height: 35px;
 	padding: 15px 10px 10px 10px;
-	margin:20px 0 0 -15px;
+	margin:20px 0 0 -25px;
 	color: #279d5e;
 	text-align: center;
 	background-color: #002612;
@@ -92,6 +93,17 @@ footer
 {
 	clear:both;
 	display: none;
+}
+
+#homeImg
+{
+	background: url("../img/home.jpg") center center no-repeat;
+	border-radius: 20px;
+	margin: 30px auto;
+	padding: 0;
+	width: 700px;
+	height: 321px;
+	display:block;
 }
 
 .profile

@@ -15,7 +15,7 @@ require_once("header.php");
 
 		<!-- Основно съдържание на страницата -->
 		<div id="content">
-			<p>Националната агенция за борба с лошото кодене.. начална страница</p>
+			<a href="about.php" title="Информация за НАБЛК"><div id="homeImg"></div></a>
 		</div>
 
 <?php

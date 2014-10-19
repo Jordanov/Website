@@ -21,7 +21,7 @@ require_once("header.php");
 				<a href="nakov.php">
 				<img class="target" src="img/targets/svetlin_nakov.jpg" alt="nakov">
 				</a>
-				<a href="https://softuni.bg/users/profile/show/nakov">Светлин Наков</a>
+				<a href="nakov.php">Светлин Наков</a>
 			</div>
 
 			<div class="clear"></div>

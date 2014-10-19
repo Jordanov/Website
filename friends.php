@@ -17,11 +17,11 @@ require_once("header.php");
 		<div id="content">
 			<p style="text-align:center;margin:0 0 30px 0;">Списък на партньорски и приятелски служби.</p>
 
-			<img class="friend" src="img/anonymous_logo.png" title="Клуб на Анонимниците" alt="">
+			<img class="friend" src="img/anonymous_logo.png" title="Клуб на Анонимните Анонимниците" alt="">
 
 			<img class="friend" src="img/umbrella_corporation.png" title="Корпорация на зомби-интусиастите" alt="">
 
-			<img class="friend" style="width:400px;" src="img/aperture_laboratories.jpg" title="Разработчици на A.I." alt="">
+			<img class="friend" style="width:400px;" src="img/aperture_laboratories.jpg" title="Разработчици на психопатски A.I. и QI тестери на портали" alt="">
 
 		</div>
 
