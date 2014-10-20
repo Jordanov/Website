@@ -17,8 +17,8 @@ require_once("header.php");
 		<div id="content">
 
 			<div class="profile">
-			<img src="img/team/valia-crop.jpg" alt="valia">
-			<a style="width:575px;margin-bottom:20px" href="https://softuni.bg/users/profile/show/valia">Валя Делибашева</a>
+			<img src="img/team/valia.jpg" alt="valia">
+			<a href="https://softuni.bg/users/profile/show/valia">Валя Делибашева</a>
 			<p>Агент Валя Делибашева е родена в семейство на бачкатори и още от малка търси всякакви
 			начини да се измъкне от заобикалящата я среда. Като тийнейджър вижда такъв шанс в езиците и
 			започва да изучава френски и английски език в ГПЧЕ „Алеко Константинов” гр. Правец.</p>
