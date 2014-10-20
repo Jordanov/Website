@@ -18,7 +18,7 @@
 				<li><a href="targets.php">Разследвани</a></li>
 				<li><a href="team.php">Екип</a></li>
 				<li><a href="friends.php">Приятели</a></li>
-				<li><a href="contacts.php">Контакти</a></li>
+				<li><a href="feedback.php">Отзиви</a></li>
 			</ul>
 
 			<!-- Clearfix-че -->

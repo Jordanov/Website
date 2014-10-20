@@ -111,15 +111,15 @@ footer
 	padding:0;
 	margin:0 0 20px 0;
 	float:left;
-	width: 750px;
+	width: 790px;
 }
 
 .profile img
 {
-	height: 160px;
-	width: 160px;
+	height: 110px;
+	width: 110px;
 	float: left;
-	margin:5px;
+	margin:5px 20px 5px 15px;
 	display: inline;
 	opacity: 1;
 	border-radius: 80px;
@@ -133,6 +133,9 @@ footer
 .profile a
 {
 	float: left;
+	margin-top:20px;
+	width:620px;
+	margin-bottom:10px
 }
 
 .profile p
